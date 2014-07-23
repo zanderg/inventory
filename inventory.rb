@@ -11,6 +11,8 @@ inventory2={:item => "Socks", :count => 0}
 inventory3={:item => "Belts", :count => 0}
 inventory4={:item => "Hats", :count => 0}
 
+item = 0 # Set item to zero.
+
 while true
 puts "Current Items
 1. #{inventory1[:item].capitalize} #{inventory1[:count]}
