@@ -14,6 +14,9 @@ inventory4={:item => "Hats", :count => 0}
 item = 0 # Set item to zero.
 
 while true
+
+puts `clear`
+
 puts "Current Items
 1. #{inventory1[:item].capitalize} #{inventory1[:count]}
 2. #{inventory2[:item].capitalize} #{inventory2[:count]}
@@ -21,6 +24,8 @@ puts "Current Items
 4. #{inventory4[:item].capitalize} #{inventory4[:count]}
 What item would you like to edit? Enter a number from the list.
 If you are finished, type q"
+
+
 
 item = gets.chomp
 
