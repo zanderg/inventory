@@ -4,7 +4,7 @@
 
 # "socks"=>("id"=>2, "count"=>0), "belts"=>("id"=>3, "count"=>0), "hats"=>("id"=>4, "count"=>0)}
 
-
+# Code looks great! - Blake
 
 inventory1={:item => "Shoes", :count => 0}
 inventory2={:item => "Socks", :count => 0}
