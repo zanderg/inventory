@@ -3,7 +3,9 @@
 # users should be allowed to enter a new inventort count for the item
 
 # "socks"=>("id"=>2, "count"=>0), "belts"=>("id"=>3, "count"=>0), "hats"=>("id"=>4, "count"=>0)}
+
 #comment
+
 # Code looks great! - Blake
 
 inventory1={:item => "Shoes", :count => 0}
